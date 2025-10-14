@@ -94,9 +94,6 @@
     "name:eng_x_preferred":[
         "Barranquilla"
     ],
-    "name:eng_x_variant":[
-        "Miami"
-    ],
     "name:epo_x_preferred":[
         "Barranquilla"
     ],
@@ -452,8 +449,8 @@
     "wof:belongsto":[
         102191577,
         85632519,
-        85670207,
-        1108700049
+        1108700049,
+        85670207
     ],
     "wof:breaches":[],
     "wof:concordances":{
@@ -486,7 +483,7 @@
         }
     ],
     "wof:id":890445001,
-    "wof:lastmodified":1690868412,
+    "wof:lastmodified":1759758776,
     "wof:megacity":1,
     "wof:name":"Barranquilla",
     "wof:parent_id":1108700049,
