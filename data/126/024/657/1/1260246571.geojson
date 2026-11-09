@@ -76,7 +76,7 @@
         "wk:page":"Cumbitara"
     },
     "wof:country":"CO",
-    "wof:geomhash":"3ef683fad5401a30bf06e3f27d08a835",
+    "wof:geomhash":"363c49c25e85a327769392f1f48e99bc",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,5 +102,5 @@
     -77.33615999999998,
     1.67788
 ],
-  "geometry": {"coordinates":[-77.33615999999998,1.67788],"type":"Point"}
+  "geometry": {"coordinates":[-77.33616,1.67788],"type":"Point"}
 }

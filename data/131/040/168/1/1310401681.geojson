@@ -76,7 +76,7 @@
         "wk:page":"Solita"
     },
     "wof:country":"CO",
-    "wof:geomhash":"81ec932deb2d9607a7c5c37e80a30600",
+    "wof:geomhash":"954d2dcd4f9377ddfba6bff259659d64",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,5 +102,5 @@
     -75.61943000000002,
     0.87516
 ],
-  "geometry": {"coordinates":[-75.61943000000002,0.87516],"type":"Point"}
+  "geometry": {"coordinates":[-75.61943,0.87516],"type":"Point"}
 }

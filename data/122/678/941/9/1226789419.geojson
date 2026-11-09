@@ -97,7 +97,7 @@
         "wk:page":"Puerto_Boyac%C3%A1"
     },
     "wof:country":"CO",
-    "wof:geomhash":"a0325d7be0938ae538be0708decf80ca",
+    "wof:geomhash":"c1de81626ae4da54612ecb95c53696f6",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -123,5 +123,5 @@
     -73.43018000000002,
     5.45036
 ],
-  "geometry": {"coordinates":[-73.43018000000002,5.45036],"type":"Point"}
+  "geometry": {"coordinates":[-73.43018,5.45036],"type":"Point"}
 }

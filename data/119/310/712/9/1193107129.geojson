@@ -71,7 +71,7 @@
         "wk:page":"Barranco_Minas"
     },
     "wof:country":"CO",
-    "wof:geomhash":"906ce5bdaabcf122a8bc4d725cdab1cd",
+    "wof:geomhash":"45fd98185a35d023586817662a80cea2",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -97,5 +97,5 @@
     -69.81083000000001,
     3.48417
 ],
-  "geometry": {"coordinates":[-69.81083000000001,3.48417],"type":"Point"}
+  "geometry": {"coordinates":[-69.81083,3.48417],"type":"Point"}
 }

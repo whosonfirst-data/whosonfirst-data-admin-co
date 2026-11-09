@@ -39,7 +39,7 @@
         "gn:id":3674829
     },
     "wof:country":"CO",
-    "wof:geomhash":"41abb6d01ed412cbfc52c9cbabb98187",
+    "wof:geomhash":"2a3f9ae81875cf2920947b7020cdcfe2",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -62,5 +62,5 @@
     -73.01666999999998,
     8.05
 ],
-  "geometry": {"coordinates":[-73.01666999999998,8.05],"type":"Point"}
+  "geometry": {"coordinates":[-73.01667,8.05],"type":"Point"}
 }

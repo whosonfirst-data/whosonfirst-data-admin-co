@@ -800,5 +800,5 @@
     -74.15,
     10.3
 ],
-  "geometry": {"coordinates":[-74.15000000000001,10.3],"type":"Point"}
+  "geometry": {"coordinates":[-74.15,10.3],"type":"Point"}
 }

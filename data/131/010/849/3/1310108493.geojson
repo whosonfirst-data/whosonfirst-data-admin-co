@@ -100,7 +100,7 @@
         "wk:page":"Taraz%C3%A1"
     },
     "wof:country":"CO",
-    "wof:geomhash":"b4a182fb323ed391b97166426f6dcccd",
+    "wof:geomhash":"52a1aeaaff34212564ab6337fa3e0187",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -126,5 +126,5 @@
     -75.40068000000002,
     7.58358
 ],
-  "geometry": {"coordinates":[-75.40068000000002,7.58358],"type":"Point"}
+  "geometry": {"coordinates":[-75.40068,7.58358],"type":"Point"}
 }

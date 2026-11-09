@@ -73,7 +73,7 @@
         "wk:page":"Santa_Helena_del_Op%C3%B3n"
     },
     "wof:country":"CO",
-    "wof:geomhash":"075702ab5ba1a862395f38c7333b5ecf",
+    "wof:geomhash":"d87165de9385cd7f3082f424951bee4e",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -99,5 +99,5 @@
     -73.61695999999998,
     6.33997
 ],
-  "geometry": {"coordinates":[-73.61695999999998,6.33997],"type":"Point"}
+  "geometry": {"coordinates":[-73.61696,6.33997],"type":"Point"}
 }

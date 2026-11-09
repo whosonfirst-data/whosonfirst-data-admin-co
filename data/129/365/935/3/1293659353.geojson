@@ -82,7 +82,7 @@
         "wk:page":"Cacahual"
     },
     "wof:country":"CO",
-    "wof:geomhash":"9d59a345da0a039f3cb5485a003d43eb",
+    "wof:geomhash":"2891d2a2ee8ce3acccfb5cde425d4258",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -108,5 +108,5 @@
     -67.41528000000001,
     3.51417
 ],
-  "geometry": {"coordinates":[-67.41528000000001,3.51417],"type":"Point"}
+  "geometry": {"coordinates":[-67.41528,3.51417],"type":"Point"}
 }

@@ -95,7 +95,7 @@
         "wk:page":"La_Chorrera,_Colombia"
     },
     "wof:country":"CO",
-    "wof:geomhash":"b492e82b260bcca3e4579dd9d327434f",
+    "wof:geomhash":"4f50206b6d0a82818bc27f44979c4a24",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -121,5 +121,5 @@
     -73.01666999999998,
     -0.73333
 ],
-  "geometry": {"coordinates":[-73.01666999999998,-0.73333],"type":"Point"}
+  "geometry": {"coordinates":[-73.01667,-0.73333],"type":"Point"}
 }

@@ -88,7 +88,7 @@
         "wk:page":"Saman%C3%A1,_Caldas"
     },
     "wof:country":"CO",
-    "wof:geomhash":"00ba2401e835c510e10d2700884094e7",
+    "wof:geomhash":"f3fbaac30221ad87d5a84a760dc3e9d9",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -111,5 +111,5 @@
     -74.99219000000002,
     5.41258
 ],
-  "geometry": {"coordinates":[-74.99219000000002,5.41258],"type":"Point"}
+  "geometry": {"coordinates":[-74.99219,5.41258],"type":"Point"}
 }

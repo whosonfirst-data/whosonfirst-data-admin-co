@@ -88,7 +88,7 @@
         "wk:page":"La_Guadalupe"
     },
     "wof:country":"CO",
-    "wof:geomhash":"8a9ed30d24f7c87a54b950eed97def60",
+    "wof:geomhash":"914d584d38bb3e89e4ce5c78a86d6808",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -114,5 +114,5 @@
     -66.86466999999999,
     1.24511
 ],
-  "geometry": {"coordinates":[-66.86466999999999,1.24511],"type":"Point"}
+  "geometry": {"coordinates":[-66.86467,1.24511],"type":"Point"}
 }

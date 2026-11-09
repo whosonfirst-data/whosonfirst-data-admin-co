@@ -86,7 +86,7 @@
         "wk:page":"San_Vicente_del_Cagu%C3%A1n"
     },
     "wof:country":"CO",
-    "wof:geomhash":"ca228744eee3216ea2ed137688db86d8",
+    "wof:geomhash":"8f0c2b645c7924fcfe31194486669f28",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -109,5 +109,5 @@
     -74.76614000000002,
     2.12172
 ],
-  "geometry": {"coordinates":[-74.76614000000002,2.12172],"type":"Point"}
+  "geometry": {"coordinates":[-74.76614,2.12172],"type":"Point"}
 }

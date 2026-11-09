@@ -76,7 +76,7 @@
         "wk:page":"Noros%C3%AD"
     },
     "wof:country":"CO",
-    "wof:geomhash":"9aedf3865f4d72521055506d68f7b0bd",
+    "wof:geomhash":"1862ab283e3a9934a7a2050d844eb4bd",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -102,5 +102,5 @@
     -74.03735999999998,
     8.52692
 ],
-  "geometry": {"coordinates":[-74.03735999999998,8.52692],"type":"Point"}
+  "geometry": {"coordinates":[-74.03736,8.52692],"type":"Point"}
 }

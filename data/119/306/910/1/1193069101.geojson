@@ -43,7 +43,7 @@
         "wk:page":"Chinauta"
     },
     "wof:country":"CO",
-    "wof:geomhash":"f896d03ae1ec3df5e528620e940ec85a",
+    "wof:geomhash":"f2f87249744f9e65d25f49f71b2e4bdb",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -69,5 +69,5 @@
     -74.46916999999998,
     4.30056
 ],
-  "geometry": {"coordinates":[-74.46916999999998,4.30056],"type":"Point"}
+  "geometry": {"coordinates":[-74.46917,4.30056],"type":"Point"}
 }

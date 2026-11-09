@@ -94,7 +94,7 @@
         "wk:page":"Puerto_Nare"
     },
     "wof:country":"CO",
-    "wof:geomhash":"ca53f25fe7cd0fbda74f3472e7e4db71",
+    "wof:geomhash":"49fac92a02071a284498d9784a995a64",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,5 +120,5 @@
     -74.59971999999998,
     6.18762
 ],
-  "geometry": {"coordinates":[-74.59971999999998,6.18762],"type":"Point"}
+  "geometry": {"coordinates":[-74.59972,6.18762],"type":"Point"}
 }

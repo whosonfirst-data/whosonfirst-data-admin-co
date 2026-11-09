@@ -49,7 +49,7 @@
         "wk:page":"San_Basilio_de_Palenque"
     },
     "wof:country":"CO",
-    "wof:geomhash":"a5e420a95e548996a642aa3d4af81aa9",
+    "wof:geomhash":"77c572a86ff51b42bed930081d0c1de7",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,5 +75,5 @@
     -75.19958000000003,
     10.10346
 ],
-  "geometry": {"coordinates":[-75.19958000000003,10.10346],"type":"Point"}
+  "geometry": {"coordinates":[-75.19958,10.10346],"type":"Point"}
 }

@@ -49,7 +49,7 @@
         "wk:page":"San_Jos%C3%A9_de_Ocune"
     },
     "wof:country":"CO",
-    "wof:geomhash":"0592fdef3c1f30679062668d307372c9",
+    "wof:geomhash":"843c02ed6d1204d8be26c3a17366c2b0",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -75,5 +75,5 @@
     -70.32833000000001,
     4.24528
 ],
-  "geometry": {"coordinates":[-70.32833000000001,4.24528],"type":"Point"}
+  "geometry": {"coordinates":[-70.32833,4.24528],"type":"Point"}
 }

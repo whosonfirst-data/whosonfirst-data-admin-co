@@ -49,7 +49,7 @@
         "wk:page":"Andagoya"
     },
     "wof:country":"CO",
-    "wof:geomhash":"328b3689e5c64f4e382a1d72b0c49afe",
+    "wof:geomhash":"7d438e88ebfe484173a207da63fed223",
     "wof:hierarchy":[
         {
             "country_id":85632519,
@@ -72,5 +72,5 @@
     -76.69615999999998,
     5.0963
 ],
-  "geometry": {"coordinates":[-76.69615999999998,5.0963],"type":"Point"}
+  "geometry": {"coordinates":[-76.69616,5.0963],"type":"Point"}
 }

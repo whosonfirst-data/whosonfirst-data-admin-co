@@ -94,7 +94,7 @@
         "wk:page":"Anor%C3%AD"
     },
     "wof:country":"CO",
-    "wof:geomhash":"e6d58e87bb0cac51d6e0497e5e0412e4",
+    "wof:geomhash":"9eee181c618ef5476176257fc1ef09fe",
     "wof:hierarchy":[
         {
             "continent_id":102191577,
@@ -120,5 +120,5 @@
     -75.14768000000002,
     7.07273
 ],
-  "geometry": {"coordinates":[-75.14768000000002,7.07273],"type":"Point"}
+  "geometry": {"coordinates":[-75.14768,7.07273],"type":"Point"}
 }
