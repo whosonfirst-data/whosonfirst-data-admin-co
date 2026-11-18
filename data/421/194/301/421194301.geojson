@@ -101,9 +101,6 @@
     "name:war_x_preferred":[
         "Santiago"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5723\u5730\u4e9a\u54e5\u6cb3"
-    ],
     "name:zho_min_nan_x_preferred":[
         "Santiago"
     ],
@@ -161,7 +158,7 @@
         }
     ],
     "wof:id":421194301,
-    "wof:lastmodified":1690868107,
+    "wof:lastmodified":1794999722,
     "wof:name":"Santiago",
     "wof:parent_id":1108701577,
     "wof:placetype":"locality",

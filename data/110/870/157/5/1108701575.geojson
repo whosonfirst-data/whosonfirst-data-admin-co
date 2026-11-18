@@ -107,12 +107,6 @@
     "name:war_x_preferred":[
         "Valle del Guamuez"
     ],
-    "name:zho_cn_x_preferred":[
-        "\u5723\u7c73\u683c\u5c14\u6cb3"
-    ],
-    "name:zho_tw_x_preferred":[
-        "\u8056\u7c73\u683c\u723e\u6cb3"
-    ],
     "name:zho_x_preferred":[
         "\u5df4\u5217\u5fb7\u723e\u74dc\u7a46\u57c3\u65af"
     ],
@@ -153,7 +147,7 @@
         }
     ],
     "wof:id":1108701575,
-    "wof:lastmodified":1695886200,
+    "wof:lastmodified":1794999722,
     "wof:name":"San Miguel",
     "wof:parent_id":85670197,
     "wof:placetype":"county",
